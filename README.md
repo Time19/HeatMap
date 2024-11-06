@@ -15,3 +15,9 @@ Here is a quick explanation, how to use the generator:
     4. Run the code
 
     5. Open the heatmap.html file in your favorite browser and explore your map
+
+## If you've done it right, your map will look like this:
+
+<p align="center">
+    <img src="pics/heatmap.png" title="My Heatmap" alt="My Heatmap" width="1052" height="873"/>&nbsp;
+</p>
