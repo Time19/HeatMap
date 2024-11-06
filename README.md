@@ -19,5 +19,5 @@ Here is a quick explanation, how to use the generator:
 ## If you've done it right, your map will look like this:
 
 <p align="center">
-    <img src="pics/heatmap.png" title="My Heatmap" alt="My Heatmap" width="1052" height="873"/>&nbsp;
+    <img src="pics/heatmap.png" title="My Heatmap" alt="My Heatmap" width="736" height="698"/>&nbsp;
 </p>
