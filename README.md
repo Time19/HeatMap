@@ -4,7 +4,7 @@ If you always wanted to see a Heat Map of your runs/walks, which you have record
 
 <br><br/>
 ## How to use it
-Here is a quck explanation, how to use the generator:
+Here is a quick explanation, how to use the generator:
 
     1. Donwload / fork the project to your machine 
 
